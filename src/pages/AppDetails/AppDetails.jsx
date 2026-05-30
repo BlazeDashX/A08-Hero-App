@@ -1,11 +1,12 @@
 import { useState } from "react";
-import { useLoaderData, useParams, Link } from "react-router";
+import { useLoaderData, useParams } from "react-router";
 import { 
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer 
 } from "recharts";
 import iDown from "../../assets/icon-downloads.png";
 import iRate from "../../assets/icon-ratings.png";
 import iReview from "../../assets/icon-review.png";
+import NotFound from "../NotFound/NotFound";
 
 const formatNumber = (num) => {
   if (num >= 1000000) return (num / 1000000).toFixed(0) + 'M';
@@ -22,10 +23,7 @@ const AppDetails = () => {
 
   if (!app) {
     return (
-      <div className="flex flex-col items-center justify-center h-screen space-y-4">
-        <h2 className="text-2xl font-bold">App not found</h2>
-        <Link to="/apps" className="text-blue-500 hover:underline">Go back to Apps</Link>
-      </div>
+      <NotFound />
     );
   }
 

@@ -6,8 +6,8 @@ const ErrorPage = () => {
     return (
         <div className='max-w-7xl mx-auto'>
             
-            <div className="flex flex-col items-center justify-center py-20 text-center">
-                <img src={err404} alt="404 Error" className="max-w-md mb-8" />
+            <div className="flex flex-col items-center justify-center text-center">
+                <img src={err404} alt="404 Error" className="max-w-md " />
                 <PageHead
                     title="Oops! Page Not Found"
                     description="The page you are looking for is not available."
