@@ -3,10 +3,10 @@ import { useLoaderData, useParams, Link } from "react-router";
 import { 
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer 
 } from "recharts";
-import { FiDownload, FiMessageSquare } from "react-icons/fi";
-import { FaStar } from "react-icons/fa";
+import iDown from "../../assets/icon-downloads.png";
+import iRate from "../../assets/icon-ratings.png";
+import iReview from "../../assets/icon-review.png";
 
-// Helper function to format large numbers (e.g., 9000000 -> 9M, 48200 -> 48.2K)
 const formatNumber = (num) => {
   if (num >= 1000000) return (num / 1000000).toFixed(0) + 'M';
   if (num >= 1000) return (num / 1000).toFixed(1).replace('.0', '') + 'K';
@@ -16,11 +16,8 @@ const formatNumber = (num) => {
 const AppDetails = () => {
   const apps = useLoaderData();
   const { id } = useParams();
-  
   const [isInstalled, setIsInstalled] = useState(false);
   const [showToast, setShowToast] = useState(false);
-
-  // Find the app using the ID from the URL params
   const app = apps.find((a) => a.id === Number(id));
 
   if (!app) {
@@ -38,7 +35,6 @@ const AppDetails = () => {
     setTimeout(() => setShowToast(false), 3000);
   };
 
-  // Reverse the ratings array so "5 star" appears at the top of the chart
   const chartData = [...app.ratings].reverse();
 
   return (
@@ -51,10 +47,8 @@ const AppDetails = () => {
         </div>
       )}
 
-      {/* --- HERO SECTION --- */}
       <div className="flex flex-col md:flex-row gap-10 items-start mb-12">
         
-        {/* Left: App Image */}
         <div className="w-full md:w-1/3 bg-white p-8 rounded-xl shadow-sm border border-gray-100 flex items-center justify-center">
           <img 
             src={app.image} 
@@ -63,36 +57,32 @@ const AppDetails = () => {
           />
         </div>
 
-        {/* Right: App Details */}
         <div className="w-full md:w-2/3 flex flex-col">
           <h1 className="text-3xl font-bold text-slate-900 mb-2">{app.title}</h1>
           <p className="text-gray-500 mb-6">
             Developed by <span className="text-purple-600 font-medium">{app.companyName}</span>
           </p>
 
-          {/* Stats Row */}
-{/* Stats Row */}
           <div className="flex gap-8 border-b border-gray-200 pb-6 mb-6">
             <div className="flex flex-col">
-              <FiDownload className="text-green-500 text-2xl mb-1" />
+                <img src={iDown} alt="Downloads" className="w-8 h-8 mb-1" />
               <span className="text-sm text-gray-500">Downloads</span>
               <span className="text-2xl font-bold">{formatNumber(app.downloads)}</span>
             </div>
             
             <div className="flex flex-col">
-              <FaStar className="text-orange-500 text-2xl mb-1" />
+                <img src={iRate} alt="Ratings" className="w-8 h-8 mb-1" />
               <span className="text-sm text-gray-500">Average Ratings</span>
               <span className="text-2xl font-bold">{app.ratingAvg}</span>
             </div>
             
             <div className="flex flex-col">
-              <FiMessageSquare className="text-purple-500 text-2xl mb-1" />
+                <img src={iReview} alt="Reviews" className="w-8 h-8 mb-1" />
               <span className="text-sm text-gray-500">Total Reviews</span>
               <span className="text-2xl font-bold">{formatNumber(app.reviews)}</span>
             </div>
           </div>
 
-          {/* Install Button */}
           <button
             onClick={handleInstall}
             disabled={isInstalled}
@@ -107,7 +97,6 @@ const AppDetails = () => {
         </div>
       </div>
 
-      {/* --- RATINGS CHART SECTION --- */}
       <div className="mb-12 border-b border-gray-200 pb-12">
         <h2 className="text-2xl font-bold mb-6 text-slate-900">Ratings</h2>
         <div className="h-62.5 w-full max-w-4xl">
@@ -141,7 +130,6 @@ const AppDetails = () => {
         </div>
       </div>
 
-      {/* --- DESCRIPTION SECTION --- */}
       <div className="pb-12">
         <h2 className="text-2xl font-bold mb-6 text-slate-900">Description</h2>
         <div className="text-gray-600 space-y-6 leading-relaxed">
