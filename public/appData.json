@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Forest: Focus For Productivity",
+    "companyName": "Seekrtech",
+    "image": "https://placehold.co/300x300/4ade80/ffffff?text=Forest",
+    "description": "Forest is a unique app that helps you stay focused and present by growing virtual trees. Whenever you want to focus, plant a seed in Forest. In the following session, a tree will grow. If you leave the app, your tree will die. Over time you'll grow a whole virtual forest that represents the time you've focused. The app makes your productivity visible and tangible. It's used by students, professionals, and anyone who wants to tame distraction and build better habits. The social feature lets you grow trees with your friends, making accountability fun. You earn virtual coins that can be spent to plant real trees through Forest's partnership with tree-planting organizations. Users report massive improvements in deep work sessions after just two weeks.",
+    "size": 258,
+    "reviews": 48200,
+    "ratingAvg": 4.8,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 8200 },
+      { "name": "5 star", "count": 37700 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "productive.io",
+    "image": "https://placehold.co/300x300/60a5fa/ffffff?text=SmPlan",
+    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Instead of just setting a timer, it builds a complete environment for deep work, minimizing distractions and maximizing concentration. Users can create custom work and break intervals, track how many sessions they complete each day, and review detailed statistics about their focus habits over time. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand. Notifications gently let you know when to pause and when to resume, helping you maintain a healthy rhythm between work and rest. A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured. The built-in analytics show not only how much time you've worked but also which tasks consumed the most energy.",
+    "size": 291,
+    "reviews": 54000,
+    "ratingAvg": 4.9,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 9800 },
+      { "name": "5 star", "count": 41400 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "FLIP Labs",
+    "image": "https://placehold.co/300x300/f97316/ffffff?text=FLIP",
+    "description": "FLIP turns your phone face down to start a focus session — it's that simple and that brilliant. The idea is beautifully intuitive: you physically commit to focusing by flipping your device over. No timers to set, no buttons to press. The app detects the orientation and starts counting your focus time automatically. Lifting the phone pauses the session and gently nudges you back to focus. FLIP is especially popular with students who want a distraction-free study experience. The app gamifies focus with streaks and statistics, showing you how many hours you've dedicated to learning each week. You can compare progress with friends on a leaderboard. FLIP integrates with your calendar to suggest optimal study blocks based on your schedule. The analytics dashboard gives you a clear picture of your study patterns and suggests areas for improvement.",
+    "size": 180,
+    "reviews": 39500,
+    "ratingAvg": 4.7,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 28230 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "DevCat Studio",
+    "image": "https://placehold.co/300x300/ec4899/ffffff?text=Pomocat",
+    "description": "Pomocat brings the classic Pomodoro technique to life with a delightful cat companion that grows and evolves as you complete focus sessions. Every 25-minute Pomodoro feeds your virtual cat and unlocks new animations and accessories. The app is designed to make productivity feel like play. You can collect different cat breeds by hitting weekly focus goals, and share your progress on social media. Behind the adorable exterior lies a powerful focus engine: customizable session lengths, break reminders, daily goals, and weekly focus reports. The white noise and ambient sound library — featuring cozy café sounds, rain, and lo-fi beats — helps you enter a flow state faster. Pomocat is used by designers, writers, and developers who want to gamify their workday without sacrificing results.",
+    "size": 220,
+    "reviews": 31200,
+    "ratingAvg": 4.6,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 640 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 6200 },
+      { "name": "5 star", "count": 22080 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "TimeBlock Inc",
+    "image": "https://placehold.co/300x300/8b5cf6/ffffff?text=TimePlan",
+    "description": "Time Planner revolutionizes how you organize your day by combining time-blocking with task management in a single, elegant interface. Instead of a scattered to-do list, you drag tasks directly onto your calendar and assign them realistic time blocks. The app learns your pace over time and suggests how long specific task types take you personally. It syncs seamlessly with Google Calendar and Apple Calendar so your schedule is always in one place. The daily review feature at end of day helps you reflect on what you achieved and carry over unfinished tasks. Time Planner's weekly and monthly views give you a bird's-eye view of your commitments. Built-in habit tracking lets you schedule recurring tasks that build long-term consistency. Users consistently report feeling less overwhelmed and more in control after one week of structured time blocking.",
+    "size": 310,
+    "reviews": 28700,
+    "ratingAvg": 4.5,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 7100 },
+      { "name": "5 star", "count": 18400 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Morning Habits - Daily Routine",
+    "companyName": "HabitFlow Co",
+    "image": "https://placehold.co/300x300/f59e0b/ffffff?text=Morning",
+    "description": "Morning Habits is built on one simple insight: how you start your morning sets the tone for your entire day. The app guides you through building and maintaining a personalized morning routine tailored to your goals and schedule. Whether you want to meditate, exercise, journal, or simply drink more water — Morning Habits tracks your streaks and celebrates your consistency. The onboarding wizard helps you design a realistic routine you can actually stick to, with smart scheduling that adapts to your wake time. Visual progress rings make it satisfying to complete each habit. The community feature lets you join morning challenges with thousands of users worldwide. Research-backed habit tips are delivered daily to help you understand the science behind behavior change. After 30 days, most users report higher energy levels, better mood, and significantly more focus throughout the day.",
+    "size": 195,
+    "reviews": 22100,
+    "ratingAvg": 4.7,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 5400 },
+      { "name": "5 star", "count": 14500 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "GreenMind Labs",
+    "image": "https://placehold.co/300x300/10b981/ffffff?text=FocusPlant",
+    "description": "Focus Plant combines the power of the Pomodoro technique with the calm of tending a virtual garden. Each focus session waters and grows a different plant in your garden, creating a living visual record of your productivity. The garden evolves with seasons and weather that reflect your real-world location, making the experience feel grounded and personal. You can grow over 100 species of plants by completing different types of focus sessions. The app includes a Zen mode for deep work, ambient nature sounds, and a mindfulness bell that gently signals break times. Focus Plant's social garden feature lets you share your garden with friends and send each other encouragement. The detailed analytics page breaks down your focus patterns by day, week, and month, helping you find your personal peak productivity hours.",
+    "size": 245,
+    "reviews": 19800,
+    "ratingAvg": 4.6,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 13270 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "companyName": "Delight Room",
+    "image": "https://placehold.co/300x300/ef4444/ffffff?text=Alarmy",
+    "description": "Alarmy is the world's most effective alarm clock, designed for people who struggle to wake up in the morning. The app uses mission-based wake-up challenges — like solving math problems, shaking your phone, or scanning a QR code — to ensure you're truly awake before the alarm stops. You can't sleep through a math problem. The sleep tracking feature monitors your sleep quality throughout the night using your phone's sensors and gives you a detailed sleep report each morning. Alarmy's smart alarm feature wakes you during your lightest sleep phase within a customizable window, leaving you feeling more refreshed. The app includes a library of soothing sleep sounds and a bedtime routine reminder to help you wind down consistently. Alarmy has woken up over 60 million people worldwide and is rated as the most effective alarm app across multiple platforms.",
+    "size": 278,
+    "reviews": 61400,
+    "ratingAvg": 4.8,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 12400 },
+      { "name": "5 star", "count": 44390 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Notion - Notes & Docs",
+    "companyName": "Notion Labs",
+    "image": "https://placehold.co/300x300/1e293b/ffffff?text=Notion",
+    "description": "Notion is an all-in-one workspace that combines notes, docs, wikis, databases, and project management into a single powerful tool. It's built for teams and individuals who want to organize everything they know, plan everything they do, and collaborate without switching between a dozen different apps. Notion's block-based editor is infinitely flexible — build anything from a simple daily note to a complex project tracker with Kanban boards, calendars, and relational databases. Templates for every use case — from personal finance tracking to product roadmaps — mean you can get started in minutes. The AI features help you summarize documents, generate content, and extract insights from your notes. Millions of teams at companies of every size use Notion as their central operating system for knowledge and work.",
+    "size": 420,
+    "reviews": 98200,
+    "ratingAvg": 4.7,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 820 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 5400 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 68780 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Habitica - Gamify Your Tasks",
+    "companyName": "HabitRPG Inc",
+    "image": "https://placehold.co/300x300/7c3aed/ffffff?text=Habitica",
+    "description": "Habitica turns your real-life tasks and habits into a role-playing game. Every habit you complete earns your character experience points, gold, and equipment. Miss a habit, and your character loses health. This simple mechanic creates powerful accountability that feels fun rather than stressful. You can join parties with friends, battle monsters by completing your daily tasks, and unlock rare items by hitting long-term goals. Habitica's social layer is its secret weapon — accountability partners who are also invested in their own character progression make it much harder to slack off. The app includes detailed habit tracking, daily to-do lists, and long-term goals, all woven into the RPG progression system. Over 4 million adventurers use Habitica to defeat procrastination and build the discipline they've always wanted.",
+    "size": 315,
+    "reviews": 43100,
+    "ratingAvg": 4.7,
+    "downloads": 7800000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 680 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 9400 },
+      { "name": "5 star", "count": 29810 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Calm - Meditation & Sleep",
+    "companyName": "Calm.com Inc",
+    "image": "https://placehold.co/300x300/06b6d4/ffffff?text=Calm",
+    "description": "Calm is the world's leading mental wellness app, designed to help you manage anxiety, improve sleep, and live more mindfully. The app features hundreds of guided meditation sessions ranging from beginner-friendly breathing exercises to advanced mindfulness practices. Sleep Stories — narrated tales designed to quiet your mind at bedtime — are one of Calm's most beloved features, with celebrity voices and original music. The Daily Calm is a fresh 10-minute meditation delivered every morning to help you start your day grounded. Calm's breathing exercises, body scans, and stress-reduction programs are evidence-based and created by leading mental health experts. Over 100 million downloads worldwide make Calm the most trusted wellness app on the market. Users report better sleep quality within the first week and significantly reduced anxiety after one month of consistent practice.",
+    "size": 350,
+    "reviews": 112000,
+    "ratingAvg": 4.9,
+    "downloads": 22000000,
+    "ratings": [
+      { "name": "1 star", "count": 680 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 18500 },
+      { "name": "5 star", "count": 87520 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Todoist - Todo List & Planner",
+    "companyName": "Doist Inc",
+    "image": "https://placehold.co/300x300/e11d48/ffffff?text=Todoist",
+    "description": "Todoist is the to-do list app that actually makes you more productive. With a clean, fast interface and powerful natural language input, you can capture and organize tasks in seconds. Type 'Call mom tomorrow at 3pm' and Todoist intelligently schedules it. The app supports nested projects, priority levels, labels, and filters so you can manage everything from simple shopping lists to complex multi-step projects. The Karma system gamifies your productivity by rewarding you for completing tasks on time and maintaining streaks. Todoist's collaboration features make it great for teams too — share projects, assign tasks, and comment in real time. The cross-platform sync is seamless across phones, tablets, desktop, and even your email client. With over 30 million users across 150 countries, Todoist is the go-to task manager for people who get things done.",
+    "size": 182,
+    "reviews": 87600,
+    "ratingAvg": 4.8,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 540 },
+      { "name": "2 star", "count": 920 },
+      { "name": "3 star", "count": 3800 },
+      { "name": "4 star", "count": 16200 },
+      { "name": "5 star", "count": 66140 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Brain.fm - Focus Music",
+    "companyName": "Brain.fm Inc",
+    "image": "https://placehold.co/300x300/0ea5e9/ffffff?text=BrainFM",
+    "description": "Brain.fm uses patented AI-generated functional music to help your brain enter and maintain a focus state faster than any playlist. The music is scientifically validated to work differently from regular background music — it's engineered at the neural level to reduce mind-wandering and enhance concentration. Sessions are available for focus, relaxation, meditation, sleep, and even napping. The AI adapts the music in real time based on your session length and focus needs. Unlike Spotify or YouTube where your brain adapts to familiar songs, Brain.fm generates unique audio each session so the effect never wears off. Clinical studies show users experience a significant improvement in focus within 10 minutes. Brain.fm is trusted by NASA, the U.S. military, and Fortune 500 companies for deep work training programs.",
+    "size": 160,
+    "reviews": 26400,
+    "ratingAvg": 4.5,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 430 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5900 },
+      { "name": "5 star", "count": 17990 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Structured - Daily Planner",
+    "companyName": "Structured App GmbH",
+    "image": "https://placehold.co/300x300/d97706/ffffff?text=Structured",
+    "description": "Structured is a visual daily planner that lays your tasks out on a timeline so you can see exactly how your day is shaped. Unlike traditional to-do lists, Structured makes time visible — you can literally see your free slots and your busy blocks at a glance. Adding a task takes three seconds: pick the time, pick the duration, name it. The app sends gentle reminders before each task starts so you're always on time. The clean, minimal design is free from clutter and distraction. Structured syncs with your calendar so existing events appear automatically on your timeline. The widget for your home screen gives you a live view of your next task at a glance. Hundreds of thousands of users with ADHD report Structured as the most effective planning tool they've ever used — the visual timeline makes abstract schedules concrete and actionable.",
+    "size": 200,
+    "reviews": 34800,
+    "ratingAvg": 4.8,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 25410 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Motion - AI Calendar & Tasks",
+    "companyName": "Motion Technologies",
+    "image": "https://placehold.co/300x300/6366f1/ffffff?text=Motion",
+    "description": "Motion is the AI-powered productivity app that automatically builds your perfect daily schedule. You add your tasks with deadlines and priorities, and Motion's AI fills your calendar with optimal time blocks, rescheduling automatically when meetings move or tasks take longer than expected. It's like having a personal assistant who manages your calendar full-time. Motion eliminates the daily planning overhead that knowledge workers spend 30+ minutes on every morning. The AI understands urgency, importance, and your working preferences to make smarter scheduling decisions than most humans would. Integration with Zoom, Google Meet, and major project management tools means Motion sees your full work context. Teams using Motion report completing 20-30% more work per week without working longer hours — just smarter scheduling driven by artificial intelligence.",
+    "size": 380,
+    "reviews": 41200,
+    "ratingAvg": 4.6,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 8800 },
+      { "name": "5 star", "count": 29260 }
+    ]
+  }
+]
