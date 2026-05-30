@@ -12,8 +12,7 @@ const TrendApp = ({ apps }) => {
         title="Top Trending Apps"
         description="Discover the most popular tools right now."
       />
-
-
+      
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
         {topApps.map((app) => (
           <AppCard key={app.id} app={app} />

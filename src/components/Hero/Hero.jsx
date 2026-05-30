@@ -4,7 +4,7 @@ import appStoreImg from "../../assets/appstore.png";
 const Hero = () => {
     return (
         <div>
-                       <div className="hero flex flex-col px-4 sm:px-6 lg:px-12">
+            <div className="hero flex flex-col px-4 sm:px-6 lg:px-12">
                 <h1 className="text-center text-4xl sm:text-5xl lg:text-7xl font-bold pt-10 lg:pt-20 mb-4 leading-tight">
                     We Build <br />
                     <span className="text-[#9F62F2]">Productive</span> Apps
@@ -41,7 +41,7 @@ const Hero = () => {
                     alt="Hero"
                     className="w-full max-w-7xl mx-auto object-contain"
                 />
-            </div> 
+            </div>
         </div>
     );
 };

@@ -1,6 +1,6 @@
 import err404 from "../../assets/error-404.png";
 import PageHead from "../../components/PageHead/PageHead";
-import { Link } from "react-router"; // Use Link for routing
+import { Link } from "react-router"; 
 
 const ErrorPage = () => {
     return (
